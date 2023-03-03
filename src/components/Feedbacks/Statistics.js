@@ -1,6 +1,6 @@
 
 import PropTypes from 'prop-types'
-import { useState } from "react"
+
 
 
 export const Statistics = ({ good, neutral, bad, positive, total }) => {
